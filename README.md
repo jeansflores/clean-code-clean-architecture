@@ -1,5 +1,6 @@
-Este conteúdo é parte do curso Clean Code e Clean Architecture da Branas.io
+# Repositório de estudos sobre Clean Code e Clean Architecture
 
-Para mais informações acesse:
+Este repositório foi desenvolvido com o intuito de aplicar os conceitos de Clean Code e Clean Architecture, foi utilizado as seguintes stacks:
 
-https://app.branas.io/clean-code-e-clean-architecture
+Frontend: Javascript com Vue.JS
+Backend: Javascript com Node.JS
